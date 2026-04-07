@@ -70,7 +70,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔥 Sport Booking System
+### 🔹 Sport Booking System
 
 🔗 https://get-sport.vercel.app  
 ⚡ React • Node.js • REST API
@@ -79,9 +79,7 @@
 - Role-based user management
 - Integrated backend APIs
 
----
-
-### 🌱 ECONNECT Waste Management
+### 🔹 ECONNECT Waste Management
 
 🔗 https://wdp301-fe.vercel.app  
 ⚡ Dashboard • Real-time • Maps
@@ -90,9 +88,7 @@
 - Map tracking & route navigation
 - Notification & reporting system
 
----
-
-### 🎓 Kidzo Centre Management
+### 🔹 Kidzo Centre Management
 
 🔗 https://kidzgo-centre-pvjj.vercel.app  
 ⚡ Fullstack • API Integration
