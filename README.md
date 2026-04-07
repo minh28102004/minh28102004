@@ -1,6 +1,6 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Luong Nguyen Xuan Minh</h1>
-<h3 align="center">Software Engineering | Fullstack Developer</h3>
+<h1 align="center">Hi 👋, I'm Xuan Minh Dev</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Building+scalable+and+user-friendly+applications" alt="Typing SVG" />
