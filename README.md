@@ -114,13 +114,21 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8" />
+    <td align="center" valign="top">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8"
+        alt="Top Languages"
+        width="420"
+      />
     </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=minh28102004&theme=tokyonight&hide_border=true" />
+    <td align="center" valign="top">
+      <img
+        src="https://streak-stats.demolab.com?user=minh28102004&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="420"
+      />
     </td>
   </tr>
 </table>
