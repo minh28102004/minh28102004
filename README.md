@@ -28,23 +28,14 @@
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" height="25"/></span>
 <span><img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25"/></span>
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="25"/></span>
-
-<br><br>
-
 <h3>⚙️ Backend</h3>
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="25"/></span>
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" height="25"/></span>
 <span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" height="25"/></span>
-
-<br><br>
-
 <h3>🗄 Database</h3>
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25"/></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="25"/></span>
 <span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" height="25"/></span>
-
-<br><br>
-
 <h3>🧰 Tools & Platforms</h3>
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="25"/></span>
@@ -53,7 +44,6 @@
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25"/></span>
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25"/></span>
 <span><img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" height="25"/></span>
----
 
 ## 🚀 Projects
 
