@@ -115,7 +115,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
