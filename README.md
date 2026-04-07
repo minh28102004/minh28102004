@@ -39,6 +39,10 @@
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="25"/></span>
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Insomnia-282C34?logo=insomnia&logoColor=4000BF" height="25"/></span>
+
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" height="25"/></span>
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25"/></span>
 
 ---
