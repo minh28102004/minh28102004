@@ -92,16 +92,7 @@
   <a href="https://github.com/minh28102004">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minh28102004&show_icons=true&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=react&hide_border=true"/>
+  <a href="https://www.facebook.com/share/1CSn9pQqyW/?mibextid=wwXIfr">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/>
+  </a>
 </p>
