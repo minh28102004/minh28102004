@@ -1,107 +1,151 @@
-<!-- PROFILE HEADER -->
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Luong Nguyen Xuan Minh</h1>
 <h3 align="center">Software Engineering Student | Fullstack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/minh28102004">
-    <img src="https://komarev.com/ghpvc/?username=minh28102004&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Building+scalable+and+user-friendly+applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=minh28102004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at FPT University (Expected 2026)
-- 💻 Interested in Fullstack Development (React + Node.js)
-- 🚀 Focus on building scalable, user-friendly applications
-- 📍 Ho Chi Minh City, Vietnam
+- 🎓 I’m a **Software Engineering student** at **FPT University** _(Expected 2026)_
+- 💻 I’m interested in **Fullstack Development** with **React, Next.js, Node.js**
+- 🚀 I enjoy building **scalable, user-friendly, and real-world applications**
+- 📚 I’m currently improving my knowledge in **System Design, Backend Development, and API Integration**
+- 📍 Based in **Ho Chi Minh City, Vietnam**
 
 ---
 
 ## 🛠 Technologies & Tools
 
-<h3>🚀 Frontend</h3>
+### 🚀 Frontend
+
 <p>
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25"/></span>
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25"/></span>
-<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25"/></span>
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" height="25"/></span>
-<span><img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25"/></span>
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="25"/></span>
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="28"/>
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="28"/>
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="28"/>
+  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="28"/>
+  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="28"/>
 </p>
-<h3>⚙️ Backend</h3>
+
+### ⚙️ Backend
+
 <p>
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="25"/></span>
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" height="25"/></span>
-<span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" height="25"/></span>
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="28"/>
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" height="28"/>
+  <img src="https://img.shields.io/badge/REST%20API-282C34?logo=fastapi&logoColor=009688" height="28"/>
+  <img src="https://img.shields.io/badge/JWT-282C34?logo=jsonwebtokens&logoColor=white" height="28"/>
 </p>
-<h3>🗄 Database</h3>
+
+### 🗄 Database
+
 <p>
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25"/></span>
-<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="25"/></span>
-<span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" height="25"/></span>
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="28"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="28"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" height="28"/>
 </p>
-<h3>🧰 Tools & Platforms</h3>
+
+### 🧰 Tools & Platforms
+
 <p>
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="25"/></span>
-<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="25"/></span>
-<span><img src="https://img.shields.io/badge/Insomnia-282C34?logo=insomnia&logoColor=4000BF" height="25"/></span>
-<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25"/></span>
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25"/></span>
-<span><img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" height="25"/></span>
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="28"/>
+  <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="28"/>
+  <img src="https://img.shields.io/badge/Insomnia-282C34?logo=insomnia&logoColor=4000BF" height="28"/>
+  <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="28"/>
+  <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="28"/>
+  <img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" height="28"/>
+  <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=white" height="28"/>
 </p>
-## 🚀 Projects
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔹 Sport Booking System
 
-- 🌐 https://get-sport.vercel.app
-- Booking platform (search, booking, payment)
-- Integrated REST APIs & user management
+**Tech:** React, Node.js, REST API  
+**Demo:** [get-sport.vercel.app](https://get-sport.vercel.app)
 
----
+- Built a sports venue booking platform with search, booking, and payment flow
+- Developed schedule selection and user management features
+- Integrated backend APIs for booking operations
 
-### 🔹 ECONNECT Waste Management
+### 🔹 ECONNECT Waste Management System
 
-- 🌐 https://wdp301-fe.vercel.app
-- Dashboard, reporting, real-time updates
-- Map tracking & route navigation
+**Tech:** Web, Mobile UI, Real-time Updates, Maps  
+**Demo:** [wdp301-fe.vercel.app](https://wdp301-fe.vercel.app)
 
----
+- Developed web and mobile interfaces for a waste management system
+- Built dashboard, reporting, and monitoring modules
+- Implemented geolocation tracking and route navigation features
+- Integrated real-time updates and notification workflows
 
-### 🔹 Kidzo Centre Management
+### 🔹 Kidzo Centre Management System
 
-- 🌐 https://kidzgo-centre-pvjj.vercel.app
-- Course & student management system
-- Backend API integration
+**Tech:** Frontend, Backend API Integration  
+**Demo:** [kidzgo-centre-pvjj.vercel.app](https://kidzgo-centre-pvjj.vercel.app)
+
+- Developed responsive interfaces for an education center management system
+- Built modules for course management, student registration, and operations
+- Integrated backend APIs for enrollment and data management
 
 ---
 
 ## 💼 Experience
 
-**Frontend Developer Intern – Amazing Tech**  
-📅 Jan 2025 – Apr 2025
+### Frontend Developer Intern — Amazing Tech
 
-- Built responsive UI
-- Integrated REST APIs
-- Improved UX & performance
+**Jan 2025 – Apr 2025**
+
+- Developed and maintained responsive web interfaces
+- Integrated RESTful APIs and collaborated with backend services
+- Contributed to debugging, feature improvements, and UX optimization
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=minh28102004&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=minh28102004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:luongxuanminh102@gmail.com">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png"/>
+    <img src="https://img.shields.io/badge/Email-luongxuanminh102%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/xuân-minh-44a5043b5">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Xuan%20Minh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/minh28102004">
-    <img src="https://img.icons8.com/bubbles/100/000000/github.png"/>
+    <img src="https://img.shields.io/badge/GitHub-minh28102004-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/share/1CSn9pQqyW/?mibextid=wwXIfr">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/>
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/minh28102004/minh28102004/output/snake.svg" alt="Snake animation" />
 </p>
