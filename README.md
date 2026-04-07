@@ -115,7 +115,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -143,8 +143,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 👾 Contribution Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/minh28102004/minh28102004/output/snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg">
+</picture>
