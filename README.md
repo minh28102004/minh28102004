@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="28"/>
   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="28"/>
+    <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" height="28"/>
+  <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" height="28"/>
+
 </p>
 
 ### ⚙️ Backend
