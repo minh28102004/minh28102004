@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  🚀 <a href="https://portofolio-minzsun.vercel.app/" target="_blank"><b>Live Portfolio</b></a>
+  🚀 <a href="https://portfolio-minzsun.vercel.app/" target="_blank"><b>Live Portfolio</b></a>
 </p>
 
 <p align="center">
