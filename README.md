@@ -61,8 +61,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="28"/>
   <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="28"/>
   <img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" height="28"/>
-  <img src="https://img.shields.io/badge/Firebase%20Firestore-282C34?logo=firebase&logoColor=FFCA28" height="28"/>
-  <img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" height="28"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -78,7 +76,6 @@
   <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="28"/>
   <img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud&logoColor=4285F4" height="28"/>
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=007ACC" height="28"/>
 </p>
 
 ---
