@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="28"/>
   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="28"/>
-    <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" height="28"/>
+  <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" height="28"/>
   <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" height="28"/>
 
 </p>
@@ -41,11 +41,13 @@
 ### ⚙️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="28"/>
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="28"/>
   <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" height="28"/>
   <img src="https://img.shields.io/badge/REST%20API-282C34?logo=fastapi&logoColor=009688" height="28"/>
   <img src="https://img.shields.io/badge/JWT-282C34?logo=jsonwebtokens&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-282C34?logo=oauth&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" height="28"/>
 </p>
 
 ### 🗄 Database
@@ -53,7 +55,10 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="28"/>
   <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="28"/>
+  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="28"/>
   <img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" height="28"/>
+  <img src="https://img.shields.io/badge/Firebase%20Firestore-282C34?logo=firebase&logoColor=FFCA28" height="28"/>
+  <img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" height="28"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -67,6 +72,9 @@
   <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="28"/>
   <img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" height="28"/>
   <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="28"/>
+  <img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud&logoColor=4285F4" height="28"/>
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=007ACC" height="28"/>
 </p>
 
 ---
@@ -77,9 +85,10 @@
 
 **Jan 2025 – Apr 2025**
 
-- Developed and maintained responsive web interfaces
-- Integrated RESTful APIs and collaborated with backend services
-- Contributed to debugging, feature improvements, and UX optimization
+- Led frontend development in a 5-member team, completing 43 assigned tasks and ensuring consistent, on-time delivery.
+- Built and refined responsive UI across 8+ core modules, including login, product, statistics, account, and category management.
+- Integrated RESTful APIs for 7+ modules, covering accounts, products, categories, shifts, teams, error management, and charts.
+- Optimized mobile UI across multiple management screens and supported teammates in API integration and UI synchronization.
 
 ---
 
