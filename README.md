@@ -84,7 +84,7 @@
 
 ### Frontend Developer Intern — Amazing Tech
 
-**Jan 2025 – Apr 2025**
+**Dec 2024 – Apr 2025**
 
 - Led frontend development in a 5-member team, completing 43 assigned tasks and ensuring consistent, on-time delivery.
 - Built and refined responsive UI across 8+ core modules, including login, product, statistics, account, and category management.
