@@ -1,13 +1,13 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Xuan Minh Dev</h1>
+<h1 align="center">Hi 👋, I'm Luong Nguyen Xuan Minh</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  🚀 <a href="https://portfolio-minzsun.vercel.app/" target="_blank"><b>Live Portfolio</b></a>
+  🚀 <a href="https://minzsun.vercel.app/" target="_blank"><b>Live Portfolio</b></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Building+scalable+and+user-friendly+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-stack+Developer;Mobile+Developer;React+%7C+Next.js+%7C+Node.js+%7C+React+Native;Building+scalable+and+user-friendly+applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 I’m a **Software Engineering student** at **FPT University** _(Expected 2026)_
-- 💻 I’m interested in **Fullstack Development** with **React, Next.js, Node.js**
-- 🚀 I enjoy building **scalable, user-friendly, and real-world applications**
-- 📚 I’m currently improving my knowledge in **System Design, Backend Development, and API Integration**
+- 💻 I build **full-stack web and mobile applications** with **React, Next.js, Node.js, and React Native**
+- 🚀 I enjoy delivering **responsive, scalable, and real-world products**
+- 📚 I’m currently improving my skills in **Backend Development, API Integration, Performance Optimization, and AI-assisted Development**
 - 📍 Based in **Ho Chi Minh City, Vietnam**
 
 ---
@@ -35,11 +35,12 @@
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="28"/>
   <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="28"/>
   <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="28"/>
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="28"/>
   <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="28"/>
-  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="28"/>
+  <img src="https://img.shields.io/badge/Zustand-282C34?logo=react&logoColor=61DAFB" height="28"/>
+  <img src="https://img.shields.io/badge/React%20Query-282C34?logo=reactquery&logoColor=FF4154" height="28"/>
   <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" height="28"/>
-  <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" height="28"/>
-
 </p>
 
 ### ⚙️ Backend
@@ -51,6 +52,7 @@
   <img src="https://img.shields.io/badge/REST%20API-282C34?logo=fastapi&logoColor=009688" height="28"/>
   <img src="https://img.shields.io/badge/JWT-282C34?logo=jsonwebtokens&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/OAuth%202.0-282C34?logo=oauth&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/WebSocket-282C34?logo=socketdotio&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" height="28"/>
 </p>
 
@@ -71,10 +73,18 @@
   <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="28"/>
   <img src="https://img.shields.io/badge/Insomnia-282C34?logo=insomnia&logoColor=4000BF" height="28"/>
   <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="28"/>
+  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" height="28"/>
+</p>
+
+### ☁️ Cloud & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" height="28"/>
   <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="28"/>
   <img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" height="28"/>
   <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="28"/>
+  <img src="https://img.shields.io/badge/Azure-282C34?logo=microsoftazure&logoColor=0078D4" height="28"/>
   <img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud&logoColor=4285F4" height="28"/>
 </p>
 
@@ -82,14 +92,60 @@
 
 ## 💼 Experience
 
+### Full-stack Developer Intern — Automation Land
+
+**Apr 2026 – Jul 2026**
+
+- Developed full-stack features for the Another House website, Automation Land corporate website, and QBroker mobile exam preparation application.
+- Built responsive web and mobile interfaces using reusable components.
+- Developed and integrated APIs, application logic, and frontend-backend data flows.
+- Collaborated with the team on requirement analysis, debugging, testing, deployment, and performance optimization.
+
 ### Frontend Developer Intern — Amazing Tech
 
 **Dec 2024 – Apr 2025**
 
-- Led frontend development in a 5-member team, completing 43 assigned tasks and ensuring consistent, on-time delivery.
-- Built and refined responsive UI across 8+ core modules, including login, product, statistics, account, and category management.
-- Integrated RESTful APIs for 7+ modules, covering accounts, products, categories, shifts, teams, error management, and charts.
-- Optimized mobile UI across multiple management screens and supported teammates in API integration and UI synchronization.
+- Led frontend development of a garment factory management system in a 5-member team, completing 43 assigned tasks on time.
+- Developed responsive interfaces, dashboards, and reporting features for 8+ management modules.
+- Integrated RESTful APIs across 7+ modules and collaborated with backend developers to ensure consistent data flow.
+- Improved system performance and stability through responsive optimization, debugging, and API testing.
+
+---
+
+## 🚧 Projects
+
+### Q-Broker Certification Exam Preparation App — Mobile Developer
+
+**Jun 2026 – Jul 2026**
+
+Google Play: **Ôn Thi CCMG Q-Broker**
+
+- Developed responsive mobile interfaces for a professional certification exam preparation app.
+- Built learning topics, lessons, practice questions, mock tests, and progress-tracking features.
+- Integrated RESTful APIs and managed data flow between the mobile app and backend services.
+- Improved usability, performance, and application stability through testing and debugging.
+
+### Another House Booking Website — Full-stack Developer
+
+**Apr 2026 – Jun 2026**
+
+Demo: <a href="https://anotherhouse.vn" target="_blank">anotherhouse.vn</a>
+
+- Developed responsive frontend interfaces for a room booking website.
+- Built room detail pages featuring availability, pricing, amenities, reviews, images, and booking actions.
+- Created reusable UI components for navigation, room sections, galleries, videos, and contact buttons.
+- Optimized layouts and interactions across desktop, tablet, and mobile devices.
+
+### Rex Centre Management System — Full-stack Developer
+
+**Jan 2026 – Apr 2026**
+
+Demo: <a href="https://rexenglish.com" target="_blank">rexenglish.com</a>
+
+- Translated education workflows into web and Zalo Mini App modules.
+- Built responsive dashboards for students, teachers, classes, courses, rooms, fees, and reports.
+- Developed reusable UI components and routing structures using Next.js App Router.
+- Integrated RESTful APIs and collaborated with the team to improve data flow and course registration usability.
 
 ---
 
