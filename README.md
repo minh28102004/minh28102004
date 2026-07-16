@@ -118,7 +118,7 @@
 
 **Jun 2026 – Jul 2026**
 
-Google Play: **Ôn Thi CCMG Q-Broker**
+Google Play: <a href="https://play.google.com/store/apps/details?id=com.automation.ccmg.client&hl=vi" target="_blank">Ôn Thi CCMG Q-Broker</a>
 
 - Developed responsive mobile interfaces for a professional certification exam preparation app.
 - Built learning topics, lessons, practice questions, mock tests, and progress-tracking features.
