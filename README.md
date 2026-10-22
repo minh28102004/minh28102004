@@ -6,18 +6,8 @@
 ## 👋 Hi there, I'm Luong Nguyen Xuan Minh!
 
 <p>
-  <strong>Full-stack &amp; Mobile Developer</strong><br>
-  <a href="https://minzsun.vercel.app/">🌐 Portfolio ↗</a>
+  <sub>Full-stack &amp; Mobile Developer · <a href="https://minzsun.vercel.app/">🌐 Portfolio ↗</a> · 🟠 🔵 🟢</sub>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Software Engineering student at FPT University** _(expected 2026)_ who enjoys turning real-world requirements into reliable products and continuously improving how I design, integrate, and optimize software.
-
-- 🚀 Currently deepening my skills in **Backend Development, API Integration, and Performance Optimization**
-- 📚 Exploring **AI-assisted Development** to improve my engineering workflow
 
 ---
 
@@ -86,70 +76,36 @@ I'm a **Software Engineering student at FPT University** _(expected 2026)_ who e
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects <a href="https://github.com/minh28102004?tab=repositories"><img align="right" src="./assets/projects/view-all-repositories.svg" width="116" height="18" alt="View all repositories" /></a>
 
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <p>
-        <strong>📱 <a href="https://play.google.com/store/apps/details?id=com.automation.ccmg.client&amp;hl=vi">Q-Broker ↗</a></strong><br>
-        <sub>Certification Exam Preparation App</sub>
-      </p>
-      <p>Mobile learning application featuring lessons, practice tests, mock exams, and progress tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="22" alt="React Native" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="22" alt="Node.js" />
-        <img src="https://img.shields.io/badge/REST%20API-0A66C2?style=flat-square&logoColor=white" height="22" alt="REST API" />
-      </p>
-      <sub><strong>Mobile Developer</strong> · Jun 2026 – Jul 2026</sub>
-    </td>
-    <td width="33.33%" valign="top">
-      <p>
-        <strong>🏠 <a href="https://anotherhouse.vn">Another House ↗</a></strong><br>
-        <sub>Booking Website</sub>
-      </p>
-      <p>Responsive room booking platform featuring room details, availability, pricing, and reservations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="22" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="22" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="22" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="22" alt="Tailwind CSS" />
-      </p>
-      <sub><strong>Full-stack Developer</strong> · Apr 2026 – Jun 2026</sub>
-    </td>
-    <td width="33.33%" valign="top">
-      <p>
-        <strong>🎓 <a href="https://rexenglish.com">Rex Centre ↗</a></strong><br>
-        <sub>Management System</sub>
-      </p>
-      <p>Education management platform with dashboards for students, teachers, courses, and reporting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="22" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Zalo%20Mini%20App-0068FF?style=flat-square&logoColor=white" height="22" alt="Zalo Mini App" />
-        <img src="https://img.shields.io/badge/REST%20API-0A66C2?style=flat-square&logoColor=white" height="22" alt="REST API" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="22" alt="MySQL" />
-      </p>
-      <sub><strong>Full-stack Developer</strong> · Jan 2026 – Apr 2026</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.automation.ccmg.client&amp;hl=vi"><img src="./assets/projects/q-broker.svg" width="285" alt="Q-Broker Certification Exam Preparation App" /></a>
+  <a href="https://anotherhouse.vn"><img src="./assets/projects/another-house.svg" width="285" alt="Another House Booking Website" /></a>
+  <a href="https://rexenglish.com"><img src="./assets/projects/rex-centre.svg" width="285" alt="Rex Centre Management System" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&amp;layout=compact&amp;card_width=420&amp;custom_title=Most%20Used%20Languages&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F2F2F2&amp;text_color=9BA3AF&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=8&amp;disable_animations=true"
     alt="Most used languages"
-    height="170"
   />
   <img
-    src="https://streak-stats.demolab.com?user=minh28102004&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-    height="170"
+    src="https://streak-stats.demolab.com?user=minh28102004&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=FF7A00&amp;fire=FF4D00&amp;currStreakNum=FFA94D&amp;currStreakLabel=FFB86B&amp;sideNums=F2F2F2&amp;sideLabels=9BA3AF&amp;dates=7D8590&amp;border_radius=10&amp;card_width=420&amp;card_height=170&amp;disable_animations=true"
+    alt="GitHub contributions and streak summary"
   />
-</div>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg">
+    <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
@@ -168,16 +124,4 @@ I'm a **Software Engineering student at FPT University** _(expected 2026)_ who e
   <a href="https://www.facebook.com/share/1CSn9pQqyW/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" />
   </a>
-</p>
-
----
-
-## 👾 Contribution Game
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg">
-    <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg">
-  </picture>
 </p>
