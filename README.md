@@ -79,9 +79,9 @@
 ## 🚀 Featured Projects <a href="https://github.com/minh28102004?tab=repositories"><img align="right" src="./assets/projects/view-all-repositories.svg" width="116" height="18" alt="View all repositories" /></a>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.automation.ccmg.client&amp;hl=vi"><img src="./assets/projects/q-broker.svg" width="270" alt="Q-Broker Certification Exam Preparation App" /></a>
-  <a href="https://anotherhouse.vn"><img src="./assets/projects/another-house.svg" width="270" alt="Another House Booking Website" /></a>
-  <a href="https://rexenglish.com"><img src="./assets/projects/rex-centre.svg" width="270" alt="Rex Centre Management System" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.automation.ccmg.client&amp;hl=vi"><img src="./assets/projects/q-broker.svg" width="280" alt="Q-Broker Certification Exam Preparation App" /></a>
+  <a href="https://anotherhouse.vn"><img src="./assets/projects/another-house.svg" width="280" alt="Another House Booking Website" /></a>
+  <a href="https://rexenglish.com"><img src="./assets/projects/rex-centre.svg" width="280" alt="Rex Centre Management System" /></a>
 </p>
 
 ---
@@ -90,14 +90,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&amp;layout=compact&amp;card_width=375&amp;theme=tokyonight&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=8"
     alt="Most used languages"
-    height="170"
+    width="380"
   />
   <img
-    src="https://streak-stats.demolab.com?user=minh28102004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=FF7A00&amp;fire=FF5A00&amp;currStreakNum=FFA94D&amp;currStreakLabel=FF9A3C"
+    src="https://streak-stats.demolab.com?user=minh28102004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=FF7A00&amp;fire=FF5A00&amp;currStreakNum=FFA94D&amp;currStreakLabel=FF9A3C&amp;card_width=470&amp;card_height=170"
     alt="GitHub contributions and streak summary"
-    height="170"
+    width="464"
   />
 </p>
 
