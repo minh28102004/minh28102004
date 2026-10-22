@@ -79,9 +79,9 @@
 ## 🚀 Featured Projects <a href="https://github.com/minh28102004?tab=repositories"><img align="right" src="./assets/projects/view-all-repositories.svg" width="116" height="18" alt="View all repositories" /></a>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.automation.ccmg.client&amp;hl=vi"><img src="./assets/projects/q-broker.svg" width="280" alt="Q-Broker Certification Exam Preparation App" /></a>
-  <a href="https://anotherhouse.vn"><img src="./assets/projects/another-house.svg" width="280" alt="Another House Booking Website" /></a>
-  <a href="https://rexenglish.com"><img src="./assets/projects/rex-centre.svg" width="280" alt="Rex Centre Management System" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.automation.ccmg.client&amp;hl=vi"><img src="./assets/projects/q-broker.svg" width="275" alt="Q-Broker Certification Exam Preparation App" /></a>
+  <a href="https://anotherhouse.vn"><img src="./assets/projects/another-house.svg" width="275" alt="Another House Booking Website" /></a>
+  <a href="https://rexenglish.com"><img src="./assets/projects/rex-centre.svg" width="275" alt="Rex Centre Management System" /></a>
 </p>
 
 ---
