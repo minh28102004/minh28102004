@@ -92,12 +92,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&amp;layout=compact&amp;card_width=375&amp;theme=tokyonight&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=8"
     alt="Most used languages"
-    width="380"
+    width="374"
   />
   <img
     src="https://streak-stats.demolab.com?user=minh28102004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=FF7A00&amp;fire=FF5A00&amp;currStreakNum=FFA94D&amp;currStreakLabel=FF9A3C&amp;card_width=470&amp;card_height=170"
     alt="GitHub contributions and streak summary"
-    width="464"
+    width="458"
   />
 </p>
 
