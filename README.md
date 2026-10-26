@@ -74,7 +74,7 @@
 
 ---
 
-## 🚀 Featured Projects <a href="https://github.com/minh28102004?tab=repositories"><img align="right" src="./assets/projects/view-all-repositories.svg" width="116" height="18" alt="View all repositories" /></a>
+## 🚀 Featured Projects <a href="https://github.com/minh28102004?tab=repositories"><img align="right" src="./assets/projects/view-all-repositories.svg" width="136" height="22" alt="View all repositories" /></a>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.automation.ccmg.client&amp;hl=vi"><img src="./assets/projects/q-broker.svg" width="275" alt="Q-Broker Certification Exam Preparation App" /></a>
