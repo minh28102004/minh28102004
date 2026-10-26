@@ -56,23 +56,21 @@
 
 ## 💼 Experience
 
-### Full-stack Developer Intern · Automation Land
+### <img align="right" src="./assets/experience/automation-land-date.svg" width="142" height="22" alt="Apr 2026 – Jul 2026" /> Full-stack Developer Intern
 
-`Apr 2026 – Jul 2026`
+<p><strong>Automation Land</strong></p>
 
-- Developed full-stack features for the Another House website, Automation Land corporate website, and QBroker mobile exam preparation application.
-- Built responsive web and mobile interfaces using reusable components.
-- Developed and integrated APIs, application logic, and frontend-backend data flows.
-- Collaborated with the team on requirement analysis, debugging, testing, deployment, and performance optimization.
+- Delivered full-stack features and responsive web/mobile interfaces for Another House, Automation Land, and Q-Broker.
+- Built APIs, application logic, and frontend–backend data flows; partnered on requirements, testing, deployment, and performance optimization.
 
-### Frontend Developer Intern · Amazing Tech
+---
 
-`Dec 2024 – Apr 2025`
+### <img align="right" src="./assets/experience/amazing-tech-date.svg" width="142" height="22" alt="Dec 2024 – Apr 2025" /> Frontend Developer Intern
 
-- Led frontend development of a garment factory management system in a 5-member team, completing 43 assigned tasks on time.
-- Developed responsive interfaces, dashboards, and reporting features for 8+ management modules.
-- Integrated RESTful APIs across 7+ modules and collaborated with backend developers to ensure consistent data flow.
-- Improved system performance and stability through responsive optimization, debugging, and API testing.
+<p><strong>Amazing Tech</strong></p>
+
+- Led frontend delivery for a garment factory management system in a five-member team, completing **43 assigned tasks** on time.
+- Built responsive dashboards and reporting for **8+ modules** and integrated RESTful APIs across **7+ modules**, improving stability through responsive optimization, debugging, and API testing.
 
 ---
 
@@ -90,14 +88,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&amp;layout=compact&amp;card_width=375&amp;theme=tokyonight&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&amp;layout=compact&amp;card_width=400&amp;theme=tokyonight&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=8"
     alt="Most used languages"
-    width="374"
+    width="397"
   />
   <img
-    src="https://streak-stats.demolab.com?user=minh28102004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=FF7A00&amp;fire=FF5A00&amp;currStreakNum=FFA94D&amp;currStreakLabel=FF9A3C&amp;card_width=470&amp;card_height=170"
+    src="https://streak-stats.demolab.com?user=minh28102004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=FF7A00&amp;fire=FF5A00&amp;currStreakNum=FFA94D&amp;currStreakLabel=FF9A3C&amp;card_width=457&amp;card_height=170"
     alt="GitHub contributions and streak summary"
-    width="458"
+    width="440"
   />
 </p>
 
