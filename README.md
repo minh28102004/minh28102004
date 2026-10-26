@@ -6,7 +6,7 @@
 ## 👋 Hi there, I'm Luong Nguyen Xuan Minh!
 
 <p>
-  Full-stack &amp; Mobile Developer · <a href="https://minzsun.vercel.app/">🌐 Portfolio ↗</a> · 🟠 🔵 🟢
+  <strong>Full-stack &amp; Mobile Developer</strong> · <a href="https://minzsun.vercel.app/">🌐 Portfolio ↗</a> · 🟠 🔵 🟢
 </p>
 
 ---
@@ -60,17 +60,17 @@
 
 <p><strong>Automation Land</strong></p>
 
-- Delivered full-stack features and responsive web/mobile interfaces for Another House, Automation Land, and Q-Broker.
-- Built APIs, application logic, and frontend–backend data flows; partnered on requirements, testing, deployment, and performance optimization.
-
-<p align="center"><img src="./assets/experience/experience-divider.svg" width="42" height="8" alt="" /></p>
+- Delivered full-stack, responsive web and mobile features for Another House, Automation Land, and Q-Broker.
+- Built APIs, application logic, and frontend–backend data flows.
+- Supported requirements, testing, deployment, and performance optimization.
 
 ### <img align="right" src="./assets/experience/amazing-tech-date.svg" width="142" height="22" alt="Dec 2024 – Apr 2025" /> Frontend Developer Intern
 
 <p><strong>Amazing Tech</strong></p>
 
 - Led frontend delivery for a garment factory management system in a five-member team, completing **43 assigned tasks** on time.
-- Built responsive dashboards and reporting for **8+ modules** and integrated RESTful APIs across **7+ modules**, improving stability through responsive optimization, debugging, and API testing.
+- Built responsive dashboards and reporting features for **8+ management modules**.
+- Integrated RESTful APIs across **7+ modules** with backend developers, improving stability through responsive optimization, debugging, and API testing.
 
 ---
 
