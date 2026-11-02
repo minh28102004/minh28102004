@@ -54,23 +54,39 @@
 
 ---
 
-## 💼 Experience
 
-### <img align="right" src="./assets/experience/automation-land-date.svg" width="142" height="22" alt="Apr 2026 – Jul 2026" /> Full-stack Developer Intern
+## 💼 Professional Experience
 
-<p><strong>Automation Land</strong></p>
+### 💻 Full-stack Developer Intern
+**Automation Land** · Apr 2026 – Aug 2026
 
-- Delivered full-stack, responsive web and mobile features for Another House, Automation Land, and Q-Broker.
-- Built APIs, application logic, and frontend–backend data flows.
-- Supported requirements, testing, deployment, and performance optimization.
+> Building scalable web and mobile applications with a focus on clean architecture, responsive design, and seamless user experiences.
 
-### <img align="right" src="./assets/experience/amazing-tech-date.svg" width="142" height="22" alt="Dec 2024 – Apr 2025" /> Frontend Developer Intern
+- 🚀 **Full-stack Development:** Developed and delivered production-oriented features for three projects: **Another House**, **Automation Land**, and **Q-Broker**, covering web platforms and mobile applications.
+- 🎨 **Frontend Engineering:** Built responsive, reusable UI components and interactive interfaces, focusing on usability, maintainability, and cross-device compatibility.
+- ⚙️ **Backend & API Integration:** Developed and integrated RESTful APIs, application logic, and frontend–backend data flows to support core business operations.
+- 📱 **Mobile Development:** Contributed to Q-Broker, a mobile certification exam preparation application, implementing learning and examination-related features.
+- 🧩 **Component Architecture:** Organized reusable application components to improve code consistency and simplify future feature development.
+- 🛠️ **Debugging & Optimization:** Identified and resolved application issues, improved responsive behavior, and supported performance optimization.
+- 🤝 **Team Collaboration:** Collaborated with developers throughout requirement analysis, feature implementation, testing, and deployment.
 
-<p><strong>Amazing Tech</strong></p>
+**Key Projects:** `Another House` · `Automation Land` · `Q-Broker`
 
-- Led frontend delivery for a garment factory management system in a five-member team, completing **43 assigned tasks** on time.
-- Built responsive dashboards and reporting features for **8+ management modules**.
-- Integrated RESTful APIs across **7+ modules** with backend developers, improving stability through responsive optimization, debugging, and API testing.
+### 🎨 Frontend Developer Intern
+**Amazing Tech** · Dec 2024 – Apr 2025
+
+> Delivering enterprise management interfaces and data-driven dashboards for a garment manufacturing management system.
+
+- 🏆 **Project Delivery:** Led frontend development within a **5-member development team**, successfully completing **43 assigned tasks on schedule**.
+- 🖥️ **Enterprise UI Development:** Built responsive interfaces, management dashboards, and reporting features across **8+ business management modules**.
+- 🔗 **API Integration:** Integrated RESTful APIs across **7+ modules**, collaborating with backend developers to maintain consistent data flows.
+- 📊 **Dashboard & Reporting:** Implemented data presentation and reporting interfaces to support operational monitoring and management workflows.
+- 🧱 **Reusable Components:** Developed reusable frontend components to maintain consistent UI behavior across the application.
+- 🐛 **Quality Assurance:** Performed debugging, responsive optimization, and API testing to improve system stability and user experience.
+- 🤝 **Cross-functional Collaboration:** Worked closely with backend developers and team members to resolve integration issues and deliver assigned features.
+
+**Key Achievements:** `43 Tasks Completed` · `8+ Management Modules` · `7+ API-Integrated Modules`
+
 
 ---
 
