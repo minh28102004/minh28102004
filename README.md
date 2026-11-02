@@ -57,7 +57,7 @@
 
 ## 💼 Professional Experience
 
-### 💻 Full-stack Developer Intern
+### Full-stack Developer Intern
 **Automation Land** · Apr 2026 – Aug 2026
 
 > Building scalable web and mobile applications with a focus on clean architecture, responsive design, and seamless user experiences.
@@ -69,7 +69,8 @@
 
 **Key Projects:** `Another House` · `Automation Land` · `Q-Broker`
 
-### 🎨 Frontend Developer Intern
+
+### Frontend Developer Intern
 **Amazing Tech** · Dec 2024 – Apr 2025
 
 > Delivering enterprise management interfaces and data-driven dashboards for a garment manufacturing management system.
