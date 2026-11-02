@@ -95,44 +95,28 @@
 
 ---
 
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/minh28102004">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"
-      alt="Most Used Languages"
-      width="46%"
-    />
-  </a>
-  <a href="https://github.com/minh28102004">
-    <img
-      src="https://streak-stats.demolab.com/?user=minh28102004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=FF7A00&amp;fire=FF5A00&amp;currStreakNum=FFA94D"
-      alt="GitHub Streak Stats"
-      width="50%"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh28102004&amp;layout=compact&amp;card_width=400&amp;theme=tokyonight&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=8"
+    alt="Most used languages"
+    width="397"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=minh28102004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=FF7A00&amp;fire=FF5A00&amp;currStreakNum=FFA94D&amp;currStreakLabel=FF9A3C&amp;card_width=457&amp;card_height=170"
+    alt="GitHub contributions and streak summary"
+    width="440"
+  />
 </p>
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg"
-      alt="Pac-Man Contribution Graph"
-      width="100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg">
+    <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/minh28102004/minh28102004/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
 
 ---
 
