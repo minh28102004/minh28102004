@@ -62,13 +62,10 @@
 
 > Building scalable web and mobile applications with a focus on clean architecture, responsive design, and seamless user experiences.
 
-- 🚀 **Full-stack Development:** Developed and delivered production-oriented features for three projects: **Another House**, **Automation Land**, and **Q-Broker**, covering web platforms and mobile applications.
-- 🎨 **Frontend Engineering:** Built responsive, reusable UI components and interactive interfaces, focusing on usability, maintainability, and cross-device compatibility.
-- ⚙️ **Backend & API Integration:** Developed and integrated RESTful APIs, application logic, and frontend–backend data flows to support core business operations.
-- 📱 **Mobile Development:** Contributed to Q-Broker, a mobile certification exam preparation application, implementing learning and examination-related features.
-- 🧩 **Component Architecture:** Organized reusable application components to improve code consistency and simplify future feature development.
-- 🛠️ **Debugging & Optimization:** Identified and resolved application issues, improved responsive behavior, and supported performance optimization.
-- 🤝 **Team Collaboration:** Collaborated with developers throughout requirement analysis, feature implementation, testing, and deployment.
+🚀 Developed full-stack features for **Another House**, **Automation Land**, and **Q-Broker**, spanning web and mobile applications.
+🎨 Built responsive web and mobile interfaces with reusable components and consistent user experiences.
+⚙️ Developed and integrated **RESTful APIs**, application logic, and frontend–backend data flows.
+🛠️ Collaborated on requirement analysis, debugging, testing, deployment, and performance optimization.
 
 **Key Projects:** `Another House` · `Automation Land` · `Q-Broker`
 
@@ -77,13 +74,10 @@
 
 > Delivering enterprise management interfaces and data-driven dashboards for a garment manufacturing management system.
 
-- 🏆 **Project Delivery:** Led frontend development within a **5-member development team**, successfully completing **43 assigned tasks on schedule**.
-- 🖥️ **Enterprise UI Development:** Built responsive interfaces, management dashboards, and reporting features across **8+ business management modules**.
-- 🔗 **API Integration:** Integrated RESTful APIs across **7+ modules**, collaborating with backend developers to maintain consistent data flows.
-- 📊 **Dashboard & Reporting:** Implemented data presentation and reporting interfaces to support operational monitoring and management workflows.
-- 🧱 **Reusable Components:** Developed reusable frontend components to maintain consistent UI behavior across the application.
-- 🐛 **Quality Assurance:** Performed debugging, responsive optimization, and API testing to improve system stability and user experience.
-- 🤝 **Cross-functional Collaboration:** Worked closely with backend developers and team members to resolve integration issues and deliver assigned features.
+🏆 Led frontend development in a **5-member team**, successfully completing **43 assigned tasks on schedule**.
+💻 Developed responsive interfaces, dashboards, and reporting features across **8+ management modules**.
+🔗 Integrated **RESTful APIs across 7+ modules**, collaborating with backend developers to ensure seamless data flow.
+🛠️ Enhanced system performance and stability through responsive optimization, debugging, and API testing.
 
 **Key Achievements:** `43 Tasks Completed` · `8+ Management Modules` · `7+ API-Integrated Modules`
 
