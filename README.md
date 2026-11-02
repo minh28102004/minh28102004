@@ -6,7 +6,7 @@
 ## 👋 Hi there, I'm Luong Nguyen Xuan Minh!
 
 <p>
-  <strong>Full-stack &amp; Mobile Developer</strong> · <a href="https://minzsun.vercel.app/">🌐 Portfolio ↗</a> · 🟠 🔵 🟢
+<strong>Full-stack &amp; Mobile Developer</strong> · 👉 <a href="https://minzsun.vercel.app/">🌐 Portfolio ↗</a> ✨
 </p>
 
 ---
